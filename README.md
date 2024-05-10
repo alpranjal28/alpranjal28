@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on Full-Stack javaScript projects
-- 📫 How to reach me - [Portfolio](https://portfolio-p-a-l.vercel.app/portfolio)
+- 📫 How to reach me - [Portfolio](https://portfolio-p-a-l.vercel.app), [Email](alpranjal28@gmail.com)
 - ⚡ Fun fact: kitties also wag tail when being pet
 
 <!---
