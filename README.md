@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alpranjal28
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on Full-Stack javaScript projects
-- 📫 How to reach me - [Portfolio](https://portfolio-p-a-l.vercel.app), [Email](alpranjal28@gmail.com)
+- 💞️ I’m looking to collaborate on Full-Stack JavaScript/TypeScript projects
+- 📫 How to reach me - [Portfolio](https://portfolio-p-a-l.vercel.app), [Email](https://mail.google.com/mail/u/0/?fs=1&to=alpranjal28@gmail.com&tf=cm)
 - ⚡ Fun fact: kitties also wag tail when being pet
 
 <!---
